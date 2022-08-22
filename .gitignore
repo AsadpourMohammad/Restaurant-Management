@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Windows folder info
+desktop.ini
+
+# Ignore info saved in .txt files
+*.txt
+
+# Do not ignore ManagerMainPass.txt
+!ManagerMainPass.txt
